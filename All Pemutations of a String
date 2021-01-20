@@ -20,3 +20,6 @@ int main() {
 	check(s,0,len-1);
 	return 0;
 }
+  
+  
+TIME COMPLEXITY: O(n*n)

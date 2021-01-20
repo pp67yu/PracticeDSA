@@ -22,4 +22,10 @@ int main() {
 }
   
   
-TIME COMPLEXITY: O(n*n)
+TIME COMPLEXITY: O(n*n!)
+There are n! permutations and it requires O(n) time to print a a permutation.
+
+
+
+
+

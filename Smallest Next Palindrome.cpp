@@ -33,3 +33,5 @@ int main(void) {
        return 0;
      }
 
+
+REFERENCE : https://www.codechef.com/problems/PALIN

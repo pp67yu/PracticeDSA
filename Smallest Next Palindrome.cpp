@@ -33,5 +33,7 @@ int main(void) {
        return 0;
      }
 
+TIME COMPLEXITY: O(n)
+
 
 REFERENCE : https://www.codechef.com/problems/PALIN
